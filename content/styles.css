@@ -1,0 +1,19 @@
+#para1 {
+    background-color:red;
+    color:white;
+}
+#para2 {
+    background-color:forestgreen;
+    color:darkorange;
+}
+#para2 strong{
+    color:brown;
+}
+#para3{
+    background-color:darkgray;
+    color:white;
+}
+li em{
+    background-color:dodgerblue;
+    color:black;
+}
